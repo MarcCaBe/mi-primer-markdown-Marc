@@ -7,6 +7,8 @@ Mi nombre es Marc Cano, tengo 17 años y soy una persona neurodivergente. Vivo e
 - **Email:** marccanoarceus@gmail.com
 - **Código Postal:** 08170
 ## **2. Formación**
+### - **ESO**
+IES MARTA MATA, Montornés del Vallés
 ## **3. Experiencia**
 ## **4. Habilidades técnicas y personales**
 ## **5. Enlaces a perfiles en línia**
